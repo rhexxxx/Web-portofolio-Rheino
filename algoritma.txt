@@ -1,0 +1,9 @@
+Algoritma website saya 
+-about me
+1. menyiapkan foto saya dengan baju sekolah, dan baju kasual
+2. membuat tabel dengan sisi kiri berisi foto dan sisi kanan berisi data diri
+3. data ada 2, yaitu data di sekolah, data ketika dirumah
+4. Ketika tombol baju kasual dipencet akan mengganti dari data di sekolah menjadi data di rumah dan foto menjadi foto kasual.
+5. membuat tabel dengan kolom pertama diisi dengan gambar, dan kolom kedua berisi identitas
+6. ketika tombol kembali dipencet maka akan meload index website
+-index
